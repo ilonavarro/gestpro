@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "name": "flutter",
+      "name": "Flutter App",
       "budget": "5000",
       "category": {
         "id": "2",
